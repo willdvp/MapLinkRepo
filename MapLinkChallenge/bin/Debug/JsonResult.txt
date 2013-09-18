@@ -1,0 +1,1 @@
+[{"distance":5.36,"fuelCost":14.4184,"id":1,"totalTime":"PT8M"},{"distance":4.5,"fuelCost":12.105,"id":2,"totalTime":"PT7M"},{"distance":8.45,"fuelCost":22.7305,"id":3,"totalTime":"PT11M"},{"distance":7.34,"fuelCost":19.7446,"id":4,"totalTime":"PT10M"}]
